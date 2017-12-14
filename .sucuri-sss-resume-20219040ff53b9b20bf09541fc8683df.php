@@ -1,0 +1,1 @@
+<?php // ./includes/src/Mage_SalesRule_Model_Mysql4_Coupon_Collection.php

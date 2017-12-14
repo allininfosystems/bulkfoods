@@ -1,0 +1,1 @@
+<?php // ./includes/src/Mage_Payment_Helper_Data.php

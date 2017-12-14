@@ -1,0 +1,1 @@
+<?php // ./includes/src/Infortis_Infortis_Model_System_Config_Source_Js_Jquery_Easing.php

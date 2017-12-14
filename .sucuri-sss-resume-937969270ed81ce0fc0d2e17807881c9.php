@@ -1,0 +1,1 @@
+<?php // ./includes/src/Zend_Gdata_Geo_Extension_GmlPoint.php

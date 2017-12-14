@@ -1,0 +1,1 @@
+<?php // ./includes/src/Mage_XmlConnect_Helper_Ipad.php
